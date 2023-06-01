@@ -1,0 +1,90 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #aaa;
+}
+header{
+	background-color: #fff;
+	padding: 15px 0;
+	border-bottom: 1px solid #eee;
+}
+
+.section{
+	padding: 60px 0;
+}
+
+.titulo{
+	color: #161b37;
+	font-size: 44px;
+	font-weight: 400;
+}
+
+#hero{
+	background-color: #fffcf9;
+	color: #242230;
+	font-weight: 100;
+}
+
+#hero a{
+	background-color: #F55A5A;
+	border: #F55A5A;
+}
+	
+#features{
+	background-color: #FFF;
+	margin-bottom: 200px;
+}
+
+#features h3{
+	color: #161b37;
+	font-size: 22px;
+	padding: 20px 0;
+	font-weight: 200;
+}
+
+#features img{
+	padding: 40px 0;
+}
+
+#find-out{
+	background-color: #ffd2b1;
+	color: #242230;
+	text-align: center;
+	font-weight: 200;
+	padding: 120px 0;
+}
+
+#find-out a{
+	background-color: #F55A5A;
+	border: #F55A5A;
+}
+
+footer{
+	background-color: #161b37;
+	color: #FFF;
+	padding: 70px 0;
+}
+
+footer img{
+	padding: 15px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
